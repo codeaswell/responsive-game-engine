@@ -1,0 +1,17 @@
+body {
+    margin: 2% auto;
+    text-align: center;
+    font-family: Helvetica, san-serif;
+    background-color: #202830;
+  }
+  
+  #board canvas {
+    background-color: #262E36;
+    width: 80%;
+    height: 80%;
+    /* -webkit-box-shadow: 0px 0px 24px 0px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 24px 0px rgba(0,0,0,1);
+    box-shadow: 0px 0px 24px 0px rgba(0,0,0,1);
+    border-radius: 10px; */
+  }
+  
